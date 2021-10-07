@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/91153605/136469429-153c3bc7-99cb-4a85-971b-a253861b6d47.png)
 
-
+# CÓDIGO
 
 ```bash
 <?xml version="1.0" encoding="iso-8859-15" standalone="yes"?>
@@ -62,5 +62,5 @@
 ```
 #
 # Procedimiento: 
-Lo primero fue dividir las distintas etiquetas y sus caracteristicas, para posteriormente crear el DTD y por último el perfil de lo afiliados, donde uno de ellos no tiene la edad apta para trabajar, y por ello los datos como <listadobajas> y <prestacionesCobradas> queda vacias. 
+Lo primero fue dividir las distintas etiquetas y sus características, para posteriormente crear el DTD y por último el perfil de los afiliados, donde uno de ellos no tiene la edad apta para trabajar, y por ello los datos como <listadobajas> y <prestacionesCobradas> queda vacías. 
 
